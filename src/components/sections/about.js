@@ -125,7 +125,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'TypeScript', 'React', 'Eleventy', 'Node.js', 'WordPress'];
+  const skills = ['Java', 'Python', 'React', 'Javascript', 'Node.js'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -135,10 +135,7 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Brittany and I enjoy creating things that live on the internet. My
-              interest in web development started back in 2012 when I decided to try editing custom
-              Tumblr themes — turns out hacking together a custom reblog button taught me a lot
-              about HTML &amp; CSS!
+              My name is Abhi and I am interested in software engineering, AI/ML, and overall love developing applications that have large scale effects. Additionally, I have a strong inclination towards the business and client-facing aspects of technology, and I thoroughly enjoy collaboration. I’m eager to connect and looking forward for whats to come!
             </p>
 
             <p>
