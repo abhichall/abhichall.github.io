@@ -1,7 +1,7 @@
 ---
 date: '2024-02-01'
 title: 'Frontend Software Developer'
-company: 'Rutgers Business Information Technology Society'
+company: 'Rutgers B.I.T.S'
 location: 'Rutgers University'
 range: 'November 2023 - Present'
 url: ''
