@@ -1,12 +1,12 @@
 ---
-date: '2016-12-21'
-title: 'Software Engineer Co-op'
-company: 'Starry'
-location: 'Boston, MA'
-range: 'July - December 2016'
-url: 'https://starry.com/'
+date: '2024-02-01'
+title: 'App Development Intern'
+company: 'SleepRemote'
+location: 'Remote'
+range: 'Feb 2024 - April 2024'
+url: ''
 ---
 
-- Engineered and improved major features of Starry's customer-facing Android web app using ES6, Handlebars, Backbone, Marionette, and CSS
-- Proposed and implemented scalable solutions to issues identified with cloud services and applications responsible for communicating with the Starry Station internet router
-- Collaborated with designers and other developers to ensure thoughtful and consistent user experiences across Starry’s iOS and Android mobile apps
+- Flutter: bootstrapped C, C++, and Dart to develop and deploy a functional app - a 115% increase in user engagement
+- Designed, wireframes and implemented multiple versions considering needs of users
+- Performed extensive market research to effectively redesign app, implement new features, and predict future improvements 
