@@ -1,14 +1,12 @@
 ---
 date: '2016-12-21'
-title: 'Frontend Software Developer'
-company: 'Rutgers' Business Information Technology Society '
-location: 'Rutgers University - NB'
-range: 'November 2023 - Present'
-url: 'https://rutgers-bits.webflow.io/'
+title: 'Software Engineer Co-op'
+company: 'Starry'
+location: 'Boston, MA'
+range: 'July - December 2016'
+url: 'https://starry.com/'
 ---
 
-- Maintain the UI/UX of a site presented to over 50,000 university students utilizing Javascript, HTML, CSS
-- Boosted user engagement by 30% by utilizing the MERN stack to create a responsive and user-friendly interface
-- Enhanced user accessibility by 15% by implementing an alternate UI ensuring all interactive elements are keyboard navigable using PHP and Ruby
-- Monitor website analytics to identify trends and areas for improvement, leading to strategic enhancements in web design and functionality
-- Project manager for a team of five in redesigning and implementing a new user interface, enhancing usability and aesthetic appeal
+- Engineered and improved major features of Starry's customer-facing Android web app using ES6, Handlebars, Backbone, Marionette, and CSS
+- Proposed and implemented scalable solutions to issues identified with cloud services and applications responsible for communicating with the Starry Station internet router
+- Collaborated with designers and other developers to ensure thoughtful and consistent user experiences across Starry’s iOS and Android mobile apps
