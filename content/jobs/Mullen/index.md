@@ -1,12 +1,12 @@
 ---
 date: '2015-12-21'
-title: 'Creative Technologist Co-op'
-company: 'MullenLowe'
-location: 'Boston, MA'
-range: 'July - December 2015'
-url: 'https://us.mullenlowe.com/'
+title: 'Freelance Web Developer'
+company: 'Self-Employed'
+location: 'Remote'
+range: 'March 2022 - May 2022'
+url: ''
 ---
 
-- Developed, maintained, and shipped production code for client websites primarily using HTML, CSS, Sass, JavaScript, and jQuery
-- Performed quality assurance tests on various sites to ensure cross-browser compatibility and mobile responsiveness
-- Clients included JetBlue, Lovesac, U.S. Cellular, U.S. Department of Defense, and more
+- Developed websites, enhancing user interface and functionality resulting in increased user engagement and satisfaction
+- Designed and managed social media advertising campaigns to promote the company's products and services, leading to customer presence by 40%
+- Collaborated with local schools to establish fundraising initiatives, resulting in increased community engagement and positive public relations for the organization
