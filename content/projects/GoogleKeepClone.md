@@ -7,7 +7,7 @@ tech:
   - HTML
   - CSS
   - Javascript
-showInProjects: true
+showInProjects: false
 ---
 
 My first CS portfolio
