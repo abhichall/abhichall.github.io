@@ -1,13 +1,13 @@
 ---
-date: '2015-12-20'
-title: 'NU Women in Tech'
-github: 'https://github.com/nuwit/website'
-external: 'https://nuwit.ccs.neu.edu/'
+date: ''
+title: 'Simulation: Game Of Life'
+github: 'https://github.com/abhichall/The-Game-Of-Life'
+external: ''
 tech:
-  - Jekyll
-  - Bootstrap
-company: 'Northeastern'
-showInProjects: false
+  - Java
+  - React.js
+company: 'Rutgers'
+showInProjects: True
 ---
 
-Complete overhaul and redesign of NU Women in Tech’s club website using Jekyll, built while serving as web chair on the e-board.
+Developed a simulation of British Mathematician, James Conway's discrete cellular model of life
