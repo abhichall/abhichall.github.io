@@ -8,11 +8,11 @@ module.exports = {
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/bchiang7',
+      url: '',
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/bchiang7',
+      url: '',
     },
     {
       name: 'Linkedin',
