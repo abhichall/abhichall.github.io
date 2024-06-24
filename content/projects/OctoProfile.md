@@ -1,12 +1,12 @@
 ---
 date: ''
-title: 'James Conway's Simulation of the Game of Life'
+title: 'James Conway's Simulation: Game of Life'
 github: 'https://github.com/abhichall/The-Game-Of-Life'
 external: ''
 tech:
+  - React.js
   - Java
-  - React
-    
+  - 
 showInProjects: true
 ---
 
