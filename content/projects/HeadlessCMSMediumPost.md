@@ -1,15 +1,14 @@
 ---
-date: '2019-11-12'
-title: 'Building a Headless Mobile App CMS From Scratch'
+date: ''
+title: 'License Plate Recognition'
 github: ''
-external: 'https://medium.com/stories-from-upstatement/building-a-headless-mobile-app-cms-from-scratch-bab2d17744d9'
+external: ''
 tech:
-  - Node
-  - Express
-  - Firebase
-  - Vue
-company: 'Upstatement'
+  - Python
+  - TensorFlow
+  - Kaggle
+company: ''
 showInProjects: true
 ---
 
-Find out how we built a custom headless CMS with Node, Express, and Firebase for a project at Upstatement
+Developed a recognition software to allow for better parking management within lots; Incorporated object detection and optical character recognition (OCR)
