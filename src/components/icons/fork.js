@@ -1,6 +1,6 @@
 import React from 'react';
 
-const IconFork = () => (
+const IconA = () => (
   <svg
     viewBox="0 0 24 24"
     fill="none"
@@ -8,13 +8,17 @@ const IconFork = () => (
     strokeWidth="2"
     strokeLinecap="round"
     strokeLinejoin="round"
-    className="feather feather-git-branch">
+    className="feather feather-A">
     <title>Git Fork</title>
-    <line x1="6" y1="3" x2="6" y2="15"></line>
-    <circle cx="18" cy="6" r="3"></circle>
-    <circle cx="6" cy="18" r="3"></circle>
-    <path d="M18 9a9 9 0 0 1-9 9"></path>
+    {/* Vertical part of A */}
+    <line x1="12" y1="20" x2="12" y2="4"></line>
+    {/* Left diagonal part of A */}
+    <line x1="4" y1="20" x2="12" y2="4"></line>
+    {/* Right diagonal part of A */}
+    <line x1="12" y1="4" x2="20" y2="20"></line>
+    {/* Horizontal bar of A */}
+    <line x1="8" y1="12" x2="16" y2="12"></line>
   </svg>
 );
 
-export default IconFork;
+export default IconA;
