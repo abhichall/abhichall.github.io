@@ -1,13 +1,13 @@
 ---
-date: '2019-07-15'
-title: 'OctoProfile'
+date: ''
+title: 'James Conway's Simulation: The Game of Life'
 github: 'https://github.com/bchiang7/octoprofile'
-external: 'https://octoprofile.now.sh'
+external: ''
 tech:
   - Next.js
-  - Chart.js
-  - GitHub API
+  - Java
+  - 
 showInProjects: true
 ---
 
-A nicer look at your GitHub profile and repo stats. Includes data visualizations of your top languages, starred repositories, and sort through your top repos by number of stars, forks, and size.
+Developed a cellular discrete model of computation devised by the British Mathematicsan John Horton Conway
