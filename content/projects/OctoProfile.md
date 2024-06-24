@@ -7,6 +7,7 @@ tech:
   - React.js
   - Java
   - 
+company: ''
 showInProjects: true
 ---
 
