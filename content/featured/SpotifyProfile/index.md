@@ -1,15 +1,14 @@
 ---
 date: '2'
-title: 'Spotify Profile'
-cover: './demo.png'
-github: 'https://github.com/bchiang7/spotify-profile'
-external: 'https://spotify-profile.herokuapp.com/'
+title: 'RunBuddy.ai'
+cover: './strava.png'
+github: ''
+external: 'https://drive.google.com/file/d/1pskbcMIwmzMJs3xNNTD9kil-oRRr4BUK/view'
 tech:
-  - React
-  - Styled Components
-  - Express
-  - Spotify API
-  - Heroku
+  - Figma
+  - Mock-up
+  - Market Research
+
 ---
 
-A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.
+Collaborated with a team of three to innovate and integrate AI into developing a new feature for the Strava App Used Figma to prototype the new feature Conducted market research to gather user feedback and generate ideas for incorporation Finalized, constructed, and demonstrated a fully functional prototype to the target market
