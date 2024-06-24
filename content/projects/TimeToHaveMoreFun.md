@@ -1,14 +1,14 @@
 ---
-date: '2020-01-10'
-title: 'Time to Have More Fun'
-github: 'https://github.com/bchiang7/time-to-have-more-fun'
-external: 'https://time-to-have-more-fun.now.sh/'
+date: ''
+title: 'Text To Speech'
+github: 'https://github.com/abhichall/Text-To-Speech'
+external: ''
 tech:
-  - Next.js
-  - Tailwind CSS
-  - Firebase
+  - Python 3.x
+  - pytssx3
+  - pypdf2
 company: ''
 showInProjects: true
 ---
 
-A single page web app for helping me choose where to travel, built with Next.js, Firebase, and Tailwind CSS
+Created a Python script to provide for discrepancies with students who prefer an auditory learning style. Further optimized script to handle large files efficiently
