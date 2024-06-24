@@ -1,15 +1,16 @@
 ---
 date: '1'
-title: 'Halcyon Theme'
-cover: './halcyon.png'
-github: 'https://github.com/bchiang7/halcyon-site'
-external: 'https://halcyon-theme.netlify.com/'
+title: 'myKitchenManager'
+cover: './mkm.png'
+github: 'https://github.com/abhichall/myKitchenManager'
+external: ''
 tech:
-  - VS Code
-  - Sublime Text
-  - Atom
-  - iTerm2
-  - Hyper
+  - React.js
+  - Spoonacular API
+  - Google Firebase
+  - Market Research
+  - Market Testing
 ---
 
-A minimal, dark blue theme for VS Code, Sublime Text, Atom, iTerm, and more. Available on [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode), [Package Control](https://packagecontrol.io/packages/Halcyon%20Theme), [Atom Package Manager](https://atom.io/themes/halcyon-syntax), and [npm](https://www.npmjs.com/package/hyper-halcyon-theme).
+A React.js web application developed to solve the hassle of budget management and balanced diets; Utilized the Spoonacular API to retrieve comprehensive information on various food items, including macronutrient content, serving sizes, etc; Used Firebase database to store user information on the back-end; Aimed to assist students in achieving a balance between financial constraints and nutritional needs.
+
