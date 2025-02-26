@@ -23,7 +23,7 @@ export default function Footer() {
           sc2639@scarletmail.rutgers.edu
         </a>
       </p>
-      {/* <Link
+      <Link
         className="md:flex hidden items-center gap-1 leading-tight"
         to="home"
         smooth={true}
@@ -36,7 +36,7 @@ export default function Footer() {
       >
         <Icon icon="mdi:arrow-top" className="text-2xl rounded-2xlt" />
         <p className="underline leading-tight">SCROLL TO TOP</p>
-      </Link> */}
+      </Link>
     </section>
   );
 }
